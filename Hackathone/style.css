@@ -1,0 +1,40 @@
+*{
+    font-family: "Space Grotesk", sans-serif;
+}
+
+#head{
+    font-size: 30px !important;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+#img1{
+   height: 300px;
+   width: 150px;
+}
+
+#logo{
+    justify-content: space-between !important;
+}
+
+#icon{
+    height: 20px !important;
+    width: 20px !important;
+}
+
+#f1{
+    background-color: #f3f3f3;
+}
+
+#f-img{
+    margin-left: 150px;
+}
+
+#exampleFormControlInput1{
+    width: 450px; 
+    border: 1px solid black;
+}
+
+#exampleFormControlTextarea1{
+    width: 450px; 
+    border: 1px solid black;
+}
